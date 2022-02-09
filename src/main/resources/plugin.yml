@@ -1,0 +1,7 @@
+name: DeathRespawn
+version: '${project.version}'
+main: rama.deathrespawn.DeathRespawn
+api-version: 1.17
+authors: [ ImRama ]
+commands:
+  dr:
